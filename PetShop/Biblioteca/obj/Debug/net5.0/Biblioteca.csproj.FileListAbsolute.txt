@@ -1,0 +1,24 @@
+C:\Users\santy\source\repos\PetShop2\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\santy\source\repos\PetShop2\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\santy\source\repos\PetShop2\Biblioteca\bin\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\santy\source\repos\PetShop2\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\santy\source\repos\PetShop2\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\santy\source\repos\PetShop2\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santy\source\repos\PetShop2\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\santy\source\repos\PetShop2\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\santy\source\repos\PetShop2\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\santy\source\repos\PetShop2\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\santy\source\repos\PetShop2\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\santy\source\repos\PetShop2\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+C:\Users\santy\source\repos\PetShop2 ddd\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\santy\source\repos\PetShop2 ddd\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\santy\source\repos\PetShop2 ddd\Biblioteca\bin\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\santy\source\repos\PetShop2 ddd\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\santy\source\repos\PetShop2 ddd\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\santy\source\repos\PetShop2 ddd\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santy\source\repos\PetShop2 ddd\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\santy\source\repos\PetShop2 ddd\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\santy\source\repos\PetShop2 ddd\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\santy\source\repos\PetShop2 ddd\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\santy\source\repos\PetShop2 ddd\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\santy\source\repos\PetShop2 ddd\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
